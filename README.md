@@ -1,4 +1,4 @@
-The source code of the paper "**Efficient and Robust Regularized Federated Recommendation**" in **CIKM'2024**. The links to four evaluated benchmark datasets are as follows.
+The source code of the paper [**Efficient and Robust Regularized Federated Recommendation**](https://arxiv.org/abs/2411.01540) in **CIKM'2024**. The links to four evaluated benchmark datasets are as follows.
 
 The link to ML-100k and ML-1m: https://grouplens.org/datasets/movielens/
 
